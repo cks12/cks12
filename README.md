@@ -1,9 +1,9 @@
 ### Olá, me chamo Caio Fresneda 👋
 
-- 🌱 No momento estou estudando typescript, React e C# ...
+- 🧑‍🎓 Estudante de Ciência Computação
+- 🌱 Estou tecnologias como Typescript, React e C# ...
 - 📫 São Paulo, Brazil 
 - 😄 Pronome: Ele/dele ...
-- 🧑‍🎓 Estudante de Ciência Computação
 
 <div align="center" dir="auto">
   <a href="https://github.com/cks12">
