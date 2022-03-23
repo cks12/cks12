@@ -3,11 +3,12 @@
 - 🌱 No momento estou estudando typescript, React e C# ...
 - 📫 São Paulo, Brazil 
 - 😄 Pronome: Ele/dele ...
+- 🧑‍🎓 Estudante de Ciência Computação
 
 <div align="center">
   <a href="https://github.com/cks12">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=cks12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cks12&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180rem"  src="https://github-readme-stats.vercel.app/api?username=cks12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cks12&layout=compact&langs_count=8&theme=dracula"/></a>
 </div>
 
   <div style="display: inline_block"><br>
