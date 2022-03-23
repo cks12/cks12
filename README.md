@@ -2,7 +2,7 @@
 
 - 🧑‍🎓 Estudante de Ciência Computação
 - 🌱 Estou tecnologias como Typescript, React e C# ...
-- 📫 São Paulo, Brazil 
+- 📫 São Paulo, Brasil 
 - 😄 Pronome: Ele/dele ...
 
 <div align="center" dir="auto">
